@@ -1,0 +1,13 @@
+Package: com.ccool.localinappstore
+Version: 0.1
+Architecture: iphone-arm
+Maintainer: R5
+Filename: /LocalInAppStore
+Size: 71170
+MD5sum: ADCE93B64675706F4A4C4B5204A1E8FE
+SH1: C9BB6D2749F5D065E9C29A2A39CF233A3A1465D2
+SHA256: 97D20EBC8F9D96DA6F4749499BE4664D7AB946D469439B7AB04AF1E167AFACA2
+Section: Tweaks
+Description: Free In-App Purchases!
+Author: R5
+Name: LocalInAppStore 1
